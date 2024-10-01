@@ -1,0 +1,5 @@
+
+*.vsidx
+*.tlog
+/RaytracingInOneWeekend/x64
+/RaytracingInOneWeekend/RaytracingInOneWeekend/x64
